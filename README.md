@@ -12,14 +12,7 @@ I'm a Front-End enthusiast with strong experience in:
 * ✍️ **TypeScript**: Writing more robust and maintainable code.
 * 🌐 **Web Performance**: Optimizing applications for a smooth and fast user experience.
 * 📱 **Responsive Design**: Ensuring applications work flawlessly across all devices.
-
-## ⚙️ On the Backend (for Full-Stack Projects)
-
-While my passion lies in the Front-End, I also have experience in Back-End development with:
-
-* Node.js
-* TypeScript
-* ElysiaJS (a fast and modern web framework)
+and more!
 
 ## ✨ What Motivates Me
 
