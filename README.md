@@ -1,18 +1,15 @@
 # Hello! 👋 I'm João Pedro Silvestrini
-Front-End Developer passionate about building modern and intuitive web experiences. I love turning ideas into reality using the latest technologies and development practices.
+I'm passionate about coding and always looking to improve my skills. Currently, I'm seeking job opportunities where I can contribute to real-world projects and grow as a developer.
 
 ## 🚀 My Skills & Technologies
-
-I'm a Front-End enthusiast with strong experience in:
-
-* ⚛️ **React.js & Next.js**: Building dynamic user interfaces and high-performance web applications.
-* 💨 **Tailwind CSS**: Creating responsive layouts and custom styles quickly and efficiently.
-* 🎨 **HTML & CSS**: Solid foundations for structuring and styling web pages.
-* 💡 **JavaScript (ES6+)**: Mastering the language that powers the modern web.
-* ✍️ **TypeScript**: Writing more robust and maintainable code.
-* 🌐 **Web Performance**: Optimizing applications for a smooth and fast user experience.
-* 📱 **Responsive Design**: Ensuring applications work flawlessly across all devices.
-and more!
+<a href="https://jpsilvestrini.me" title="click click">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,md" /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,pnpm,discordjs,express,vite,vitest,react,nextjs,tailwind,elysia,tauri,electron" /><br />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase" /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,bots,gmail" /><br />
+      <img src="https://skillicons.dev/icons?i=vscode,idea" /><br />
+      <img src="https://skillicons.dev/icons?i=cloudflare,discord" /><br />
+</a>
 
 ## ✨ What Motivates Me
 
@@ -32,7 +29,6 @@ Feel free to reach out or follow me to keep up with my projects and learning:
 ## 💡 Continuously Learning
 
 I'm always looking to learn and stay updated with the latest in the development world.
-
 ---
 
 Thanks for visiting my profile! 😊
