@@ -27,8 +27,4 @@ Feel free to reach out or follow me to keep up with my projects and learning:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosilves17@hotmail.com)
 
 ## 💡 Continuously Learning
-
 I'm always looking to learn and stay updated with the latest in the development world.
----
-
-Thanks for visiting my profile! 😊
